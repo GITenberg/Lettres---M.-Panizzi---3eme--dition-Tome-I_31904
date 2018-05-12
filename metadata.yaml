@@ -1,0 +1,37 @@
+_repo: Lettres---M.-Panizzi---3eme--dition-Tome-I_31904
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mérimée, Prosper
+    alias: Merimee, Prosper
+    birthdate: 1803
+    deathdate: 1870
+    gutenberg_agent_id: '920'
+    url: http://www.gutenberg.org/2009/agents/920
+    wikipedia: http://en.wikipedia.org/wiki/Prosper_Mérimée
+  editor:
+    agent_name: Fagan, Louis
+    alias: Fagan, Louis Alexander
+    birthdate: 1845
+    deathdate: 1903
+    gutenberg_agent_id: '35544'
+    url: http://www.gutenberg.org/2009/agents/35544
+description: ''
+gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
+gutenberg_issued: '2010-04-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31904'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Panizzi, Anthony, Sir, 1797-1879'
+- !lcsh 'Mérimée, Prosper, 1803-1870 -- Correspondence'
+title: Lettres à M. Panizzi - 3eme édition, Tome I
+url: http://www.gutenberg.org/ebooks/31904
